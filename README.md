@@ -1,5 +1,4 @@
-# afifa-store
-My E commerce website IT- project 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
